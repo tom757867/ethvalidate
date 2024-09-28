@@ -27,20 +27,18 @@ c - contractaddress
 n - network<br>
 <ul>
   <li><b>Mainnet</b></li>
+  <li>QuickNode</li>
   <li>infura</li>
   <li>mycrypto</li>
   <li>myetherwallet</li>
   <li>chainstack</li>
   <li><b>Testnet</b></li>
-  <li>ropsten_infura</li>
-  <li>ropsten_chainstack</li>
-  <li>kovan_infura</li>
-  <li>rinkeby_infura</li>
+  <li>sepolia_infura</li>
   <li>goerli_infura</li>
 </ul>
 sample usage <br>
 https://etherscan.github.io/ethvalidate/?n=infura,mycrypto <br>
-https://etherscan.github.io/ethvalidate/?n=ropsten_infura
+https://etherscan.github.io/ethvalidate/?n=sepolia_infura
 
 
 # Disclaimer
